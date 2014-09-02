@@ -1,7 +1,7 @@
 # Primer Peso
 
 ## Code
-* [http://codeforamerica.org/primerpeso](http://codeforamerica.org/primerpeso)
+* [https://github.com/codeforamerica/primerpeso](https://github.com/codeforamerica/primerpeso)
 
 ## Links
 *  [http://www.primerpeso.com](http://www.primerpeso.com)
